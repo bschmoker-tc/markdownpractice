@@ -1,6 +1,6 @@
 {
   "name": "markdown is cool!",
   "tagline": "test page, please ignore.",
-  "body": "> limitation: can't do lists within table cells\r\n\r\nHere's my favorite [pizza pie restaurant](rad.pizza). It's the best place.\r\n\r\nSome sample code that you might use `sandwiches = great` \r\n\r\n`some code sample`\r\n\r\n> here's how to do tables\r\n\r\ntable header | other column\r\n----- | ----\r\ntable cell | table cell",
+  "body": "> limitation: can't do lists within table cells\r\n\r\nHere's my favorite [pizza pie restaurant](rad.pizza). It's the best place.\r\n\r\nSome sample code that you might use `sandwiches = great` \r\n\r\nmalicious domain: `evil.ru`\r\n\r\n> here's how to do tables\r\n\r\ntable header | other column\r\n----- | ----\r\ntable cell | table cell",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

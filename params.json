@@ -1,6 +1,6 @@
 {
   "name": "Markdownpractice",
   "tagline": "test page, please ignore",
-  "body": "## a practice sandbox",
+  "body": "## a practice sandbox\r\n- write some stuff here",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

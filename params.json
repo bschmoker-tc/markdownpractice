@@ -1,6 +1,6 @@
 {
   "name": "markdown is cool!",
   "tagline": "test page, please ignore.",
-  "body": "## a practice sandbox\r\n- write some stuff here\r\n\r\n# overall heading\r\n## subheading\r\n### sub-subheading\r\n\r\n# own heading\r\n\r\n",
+  "body": "# example table\r\n\r\nFirst col header | Second col header\r\n------------ | -------------\r\n| column 1 | col 2 | \r\n| data 1 | data 2 |",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
